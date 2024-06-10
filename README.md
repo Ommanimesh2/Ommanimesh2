@@ -114,6 +114,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ommanimesh2&show_icons=true&locale=en&theme=transparent" alt="ommanimesh2" /></p>
 </div>
 </details>
+
+<br>
 <br>
 
 ## <h2 align=left> Connect with me </h2>
