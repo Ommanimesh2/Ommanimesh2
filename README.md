@@ -22,21 +22,6 @@
 
   <br>
 
-## <h2 align=left> Connect with me </h2>
-
- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="mailto:ommanimeshmishra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Ommanimesh2">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/omm-animesh-mishra-b81329236">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-</div>
-
 ## My Skills
 
 ### - Programming languages
@@ -129,6 +114,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ommanimesh2&show_icons=true&locale=en&theme=transparent" alt="ommanimesh2" /></p>
 </div>
 </details>
+
+## <h2 align=left> Connect with me </h2>
+
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="mailto:ommanimeshmishra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Ommanimesh2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omm-animesh-mishra-b81329236">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+</div>
+
   <br/>
   <br/>
 
